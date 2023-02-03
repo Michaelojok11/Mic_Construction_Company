@@ -2,7 +2,7 @@ body{
     margin: 0;
 }
 .flex_container{
-    background-color:rgb(100, 98, 98);
+    background-color:rgb(124, 118, 118);
 }
 
 .introduction{
@@ -22,7 +22,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: rgb(141, 135, 135);
+    background-color: rgb(124, 118, 118);
   }
   
   li {
@@ -52,7 +52,7 @@ ul {
     margin: 15px;
 }
 .flex_services > div {
-    background-color:rgb(100, 98, 98) ;
+    background-color:rgb(124, 118, 118);
     margin: 20px;
     width: 33.3%;
     height: 250px;
@@ -67,7 +67,7 @@ ul {
 }
 
 .Our_projects > div {
-    background-color:rgb(100, 98, 98) ;
+    background-color:rgb(124, 118, 118) ;
     margin: 20px;
     width: 33.3%;
     height: 250px;
@@ -76,4 +76,12 @@ ul {
 }
 h2{
     text-align: center;
+}
+.twitter_feed{
+    background-color:white ;
+    margin: 15px;
+    background-color:rgb(124, 118, 118) ;
+    margin: 32px;
+    color: white;
+    padding: 5px;
 }
