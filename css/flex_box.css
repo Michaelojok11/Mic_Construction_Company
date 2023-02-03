@@ -1,13 +1,28 @@
 body{
     margin: 0;
 }
+.flex_container{
+    background-color:rgb(100, 98, 98);
+}
+
+.introduction{
+    height: 400px;
+}
+.intro_column1{
+    width: 40%;
+    color: white;
+}
+.intro_column2{
+    padding-left: 50px;
+    padding-right: 30px;
+}
 
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: rgb(141, 135, 135);
   }
   
   li {
@@ -18,10 +33,14 @@ ul {
     display: block;
     color: white;
     text-align: center;
-    padding: 14px 16px;
+    padding: 14px 30px;
     text-decoration: none;
   }
   
   li a:hover{
     background-color: #111;
   }
+.introduction{
+    display: flex;
+    padding: 10px;
+}
