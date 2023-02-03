@@ -54,8 +54,8 @@ ul {
 .flex_services > div {
     background-color:rgba(226, 223, 223, 0.692);
     margin: 20px;
-    width: 33.3%;
-    height: 250px;
+    width: 50%;
+    /* height: 250px; */
     color: rgb(65, 55, 55);
     padding: 5px;
 }
@@ -103,4 +103,7 @@ button a {
     color: white;
    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
+}
+.flex_company1{
+    display: flex;
 }
