@@ -2,7 +2,7 @@ body{
     margin: 0;
 }
 .flex_container{
-    background-color:rgb(124, 118, 118);
+    background-color:rgba(226, 223, 223, 0.692);
 }
 
 .introduction{
@@ -10,7 +10,6 @@ body{
 }
 .intro_column1{
     width: 40%;
-    color: white;
 }
 .intro_column2{
     padding-left: 50px;
@@ -53,7 +52,7 @@ ul {
     margin: 15px;
 }
 .flex_services > div {
-    background-color:rgb(124, 118, 118);
+    background-color:rgba(226, 223, 223, 0.692);
     margin: 20px;
     width: 33.3%;
     height: 250px;
@@ -68,7 +67,7 @@ ul {
 }
 
 .Our_projects > div {
-    background-color:rgb(124, 118, 118) ;
+    background-color:rgba(226, 223, 223, 0.692) ;
     margin: 20px;
     width: 33.3%;
     height: 250px;
@@ -81,8 +80,8 @@ h2{
 .twitter_feed{
     background-color:white ;
     margin: 15px;
-    background-color:rgb(124, 118, 118) ;
+    background-color:rgba(226, 223, 223, 0.692) ;
     margin: 32px;
-    color: white;
+    color: rgb(15, 15, 15);
     padding: 5px;
 }
