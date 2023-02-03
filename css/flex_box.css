@@ -56,7 +56,7 @@ ul {
     margin: 20px;
     width: 33.3%;
     height: 250px;
-    color: white;
+    color: rgb(65, 55, 55);
     padding: 5px;
 }
 
@@ -71,7 +71,7 @@ ul {
     margin: 20px;
     width: 33.3%;
     height: 250px;
-    color: white;
+    color: rgb(24, 23, 23);
     padding: 5px;
 }
 h2{
@@ -82,6 +82,6 @@ h2{
     margin: 15px;
     background-color:rgba(226, 223, 223, 0.692) ;
     margin: 32px;
-    color: rgb(15, 15, 15);
+    color: rgb(22, 21, 21);
     padding: 5px;
 }
