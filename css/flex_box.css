@@ -77,14 +77,6 @@ ul {
 h2{
     text-align: center;
 }
-.twitter_feed{
-    background-color:white ;
-    margin: 15px;
-    background-color:rgba(226, 223, 223, 0.692) ;
-    margin: 32px;
-    color: rgb(22, 21, 21);
-    padding: 5px;
-}
 
 .button_flex {
     display: flex;
@@ -94,7 +86,7 @@ button{
     margin: 10px;
     background-color:rgba(41, 36, 36, 0.692) ;
     height: 50px;
-    width: 150px;
+    width: 350px;
     border-radius: 5px; 
 }
 button a {
@@ -122,5 +114,13 @@ button a {
 h2{
     font-size: 45px;
     color: #0c5159;
-
 }
+.twitter_feed{
+    background-color:white ;
+    margin: 15px;
+    background-color:rgba(226, 223, 223, 0.692) ;
+    margin: 32px;
+    color: rgb(22, 21, 21);
+    padding: 5px;
+}
+
