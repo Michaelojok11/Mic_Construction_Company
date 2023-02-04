@@ -142,3 +142,23 @@ h2{
 .flex_news_1:hover{
     background-color: rgb(202, 214, 226);
   }
+  .flex_button_viewall{
+    background-color: white;
+    /* height: 25px; */
+    width: 800px;
+   margin-left: 600px;
+   margin-right: 600px;
+   
+    
+  }
+
+  .flex_button_viewall a {
+    text-decoration: none;
+   color:rgb(22, 21, 21);
+   padding: 10px;
+   font-size: 25px;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  .flex_button_viewall a:hover{
+    background-color: rgb(197, 193, 193);
+  }
