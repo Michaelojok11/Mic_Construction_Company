@@ -60,17 +60,17 @@ ul {
     padding: 5px;
 }
 
-.Our_projects{
+.flex_news{
     display: flex;
     background-color:white ;
     margin: 15px;
 }
 
-.Our_projects > div {
-    background-color:rgba(226, 223, 223, 0.692) ;
-    margin: 20px;
-    width: 33.3%;
-    height: 250px;
+.flex_news > div {
+    background-color:white ;
+    margin: 30px;
+    width: 50%;
+    /* height: 250px; */
     color: rgb(24, 23, 23);
     padding: 5px;
 }
@@ -123,4 +123,22 @@ h2{
     color: rgb(22, 21, 21);
     padding: 5px;
 }
+/* flex news */
+.flex_news_1{
+    display: flex;
+    /* border: 0.5px solid; */
+    margin: 10px;
+}
 
+.flex_news_1 a {
+    text-decoration: none;
+    color: rgb(20, 19, 19);
+}
+.flex_news_1 p {
+    text-decoration: none;
+    color: rgb(134, 121, 121);
+}
+
+.flex_news_1:hover{
+    background-color: rgb(202, 214, 226);
+  }
