@@ -2,7 +2,7 @@ body{
     margin: 0;
 }
 .flex_container{
-    background-color:rgba(226, 223, 223, 0.692);
+    background-color:rgb(247, 247, 243);
 }
 
 .introduction{
@@ -52,7 +52,7 @@ ul {
     margin: 15px;
 }
 .flex_services > div {
-    background-color:rgba(226, 223, 223, 0.692);
+    background-color:white;
     margin: 20px;
     /* width: 50%; */
     /* height: 250px; */
@@ -107,16 +107,19 @@ button a {
     display: flex;
 }
 .flex_company{
-    width: 70%;
+    width: 60%;
 }
 .flex_photos{
-    width: 30%;
+    width: 40%;
 }
 .flex_company_about{
-    width: 70%;
-    padding: 10px;
+    width: 60%;
+    padding: 5px;
     font-size: 28px;
-    text-align: center;
+    text-align: left;
     margin-right: 10px;
-    
+}
+h2{
+    font-size: 35px;
+
 }
