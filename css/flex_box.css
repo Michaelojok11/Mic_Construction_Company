@@ -209,3 +209,7 @@ h2{
         width: 60%;
         padding: 10px;
       }
+    
+      .nav_menu a{
+       font-size: 25px;
+      }
