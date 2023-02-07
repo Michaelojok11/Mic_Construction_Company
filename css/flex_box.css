@@ -172,14 +172,13 @@ h2{
 }
  
     /* navigation bar */
-    /* div.navbar {
+    div.navbar {
       position: fixed;
       width: 100%;
-    } */
-
+    } 
     
     .navbar {
-        overflow: hidden;
+        /* overflow: hidden; */
         background-color: #333;
         display: flex;
       }
@@ -218,8 +217,8 @@ h2{
         position: absolute;
         background-color: #f9f9f9;
         min-width: 160px;
-        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-        z-index: 1;
+        /* box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); */
+        /* z-index: 1; */
       }
       
       .dropdown-content a {
