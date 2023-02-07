@@ -13,3 +13,6 @@
 .footer_socials{
     display: flex;
     margin-top: 5px;
+.footer .footer_nav{
+    text-decoration: none;
+}
