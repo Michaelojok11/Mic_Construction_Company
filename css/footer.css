@@ -1,6 +1,11 @@
+.main_footer {
+    background-color: #333;
+    height: 340px;
+}
+
+
 .footer {
     display: flex;
-    background-color:#333;
     color: white;
     padding-bottom: 5px;
 }
@@ -33,4 +38,7 @@ h3 {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 20px;
 }
-    
+hr {
+    height: 1px;
+    margin: 0;
+}
