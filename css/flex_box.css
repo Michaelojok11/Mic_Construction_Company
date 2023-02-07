@@ -166,6 +166,14 @@ h2{
  
  
     /* navigation bar */
+    /* div.navbar {
+      position: fixed;
+      width: 100%;
+    } */
+
+
+
+    
     .navbar {
         overflow: hidden;
         background-color: #333;
