@@ -162,8 +162,14 @@ h2{
   .flex_button_viewall a:hover{
     background-color: rgb(197, 193, 193);
   }
+.introduction .intro_column1 .button_flex button {
+  height: 30px;
+  width: 135px;
+}
 
- 
+.introduction .intro_column1 .button_flex button a {
+  padding: 1px;
+}
  
     /* navigation bar */
     /* div.navbar {
