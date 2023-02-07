@@ -1,7 +1,9 @@
 .footer {
     display: flex;
-    background-color: ;
+    background-color:#333;
+    color: white;
 }
 .footer_nav{
     width: 25%;
+    margin: 15px;
 }
