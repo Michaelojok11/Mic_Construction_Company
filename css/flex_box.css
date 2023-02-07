@@ -56,14 +56,17 @@ h2{
 .button_flex {
     display: flex;
     justify-content: center;
+    margin-top: -20px;
 }
 button{
     margin: 10px;
     background-color:rgba(41, 36, 36, 0.692) ;
     height: 50px;
-    width: 350px;
+    width: 130px;
     border-radius: 5px; 
 }
+
+
 button a {
     text-decoration: none;
     color: white;
