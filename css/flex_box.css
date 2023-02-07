@@ -213,3 +213,8 @@ h2{
       .nav_menu a{
        font-size: 25px;
       }
+
+      .dropdown .dropbtn {
+        font-size:25px ;
+        width: 160px;
+      }
