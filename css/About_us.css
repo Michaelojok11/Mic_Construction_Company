@@ -1,6 +1,11 @@
 .middle_section {
     background-image: url(../Images/aboutus/digital1.jpg);
     height: 700px;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat;  
+}
+.contact{
+    
+} 
+..middle_section .contact {
     
 }
