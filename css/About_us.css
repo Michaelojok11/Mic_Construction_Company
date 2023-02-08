@@ -1,11 +1,30 @@
 .middle_section {
-    background-image: url(../Images/aboutus/digital1.jpg);
+    background-image: url(../Images/aboutus/digital2.jpg);
     height: 700px;
     background-repeat: no-repeat;  
 }
 .contact{
+    margin-top: 200px;
     
 } 
-..middle_section .contact {
-    
+.middle_section .contact p img{
+    width: 50px;
+    height: 10px;
+    text-decoration: none;
+    color: black ;
+    font-size: 35px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+} 
+
+.middle_section .contact p {
+        color: black ;
+    font-size: 25px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+} 
+
+
+button{
+    background-color: brown;
+    height: 35px;
+    width: 150px;
 }
