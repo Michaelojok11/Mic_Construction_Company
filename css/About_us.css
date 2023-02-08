@@ -1,6 +1,6 @@
 .middle_section {
     background-image: url(../Images/aboutus/digital2.jpg);
-    height: 700px;
+    height: 600px;
     background-repeat: no-repeat;  
 }
 .contact{
@@ -32,4 +32,26 @@ button{
     width: 30px;
     height: 30px;
     padding-right: 5px;
+}
+h1{
+    color: #C75B12;
+    text-align: center;
+}
+/* .services div.services1 {
+    display: flex;
+} */
+.services{
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.services1{
+    width: 33.3%;
+    padding-right: 10px;
+}
+.services .services1 img {
+    margin-left: 40%;
+    margin-right: 40%;
+    height:50px;
+    width: 60px;
 }
