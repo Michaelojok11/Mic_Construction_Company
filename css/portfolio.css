@@ -10,7 +10,7 @@
 }
 
 .breadcrumbs a {
-    padding-left: 48%;
+    padding-left: 43%;
     text-decoration: none;
     font-size: 30px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -33,4 +33,9 @@
 .properties > div img {
     height: 350px;
     width: 500px;
+}
+h1{
+    margin: 30px;
+    text-align: center;
+    color: #C75B12;
 }
