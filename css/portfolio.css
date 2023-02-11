@@ -20,13 +20,17 @@
     margin-top: 20px;
     display: flex;
     flex-wrap: wrap;
-    background-color: red;
+    /* background-color: red; */
 }
 
 .properties > div {
-    width: 32%;
+    width: 31%;
     margin: 10px;
     text-align: center;
     background-color: white;
-    padding: 5px;
+    padding: 8px;
+}
+.properties > div img {
+    height: 350px;
+    width: 500px;
 }
