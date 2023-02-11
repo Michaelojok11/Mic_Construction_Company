@@ -14,5 +14,17 @@
 .breadcrumbs a {
     padding-left: 50%;
     text-decoration: none;
-    
+}
+
+.properties{
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: red;
+}
+.properties > div {
+    width: 32%;
+    margin: 10px;
+    text-align: center;
+    background-color: white;
 }
