@@ -25,7 +25,9 @@
 .middle_section .contact button:hover {
     background-color: red;
 }
-
+/* .services .services1:hover {
+    background-color: rgb(168, 79, 79);
+} */
 button{
     background-color: brown;
     height: 35px;
