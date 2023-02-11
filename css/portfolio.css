@@ -5,3 +5,14 @@
     width: 100%;
     background-repeat: no-repeat;
 }
+.breadcrumbs{
+    padding-top: 150px;
+   
+   
+}
+
+.breadcrumbs a {
+    padding-left: 50%;
+    text-decoration: none;
+    
+}
