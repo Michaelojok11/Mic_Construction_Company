@@ -1,19 +1,21 @@
 .breadcrumbs_section{
     background-image: url(../images/aboutus/digitalisation_final.jpg);
-    height: 500px;
+    height: 400px;
     margin: 0;
     width: 100%;
     background-repeat: no-repeat;
 }
 .breadcrumbs{
-    padding-top: 150px;
+    padding-top: 200px;
    
    
 }
 
 .breadcrumbs a {
-    padding-left: 50%;
+    padding-left: 48%;
     text-decoration: none;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .properties{
