@@ -7,8 +7,6 @@
 }
 .breadcrumbs{
     padding-top: 200px;
-   
-   
 }
 
 .breadcrumbs a {
@@ -24,9 +22,11 @@
     flex-wrap: wrap;
     background-color: red;
 }
+
 .properties > div {
     width: 32%;
     margin: 10px;
     text-align: center;
     background-color: white;
+    padding: 5px;
 }
