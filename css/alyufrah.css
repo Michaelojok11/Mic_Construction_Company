@@ -74,6 +74,12 @@ h1{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
    text-align: justify;
 }
+.description2 button {
+    margin: 5px;
+    height: 30px;
+    width: 98%;
+}
+
 
 
 
