@@ -46,3 +46,16 @@ h1{
     color: #C75B12;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+.features{
+    display: flex;
+  
+}
+.features > div {
+    margin: 10px;
+    width: 31%;
+    border: 2px solid;
+}
+.features > div img {
+    width: 30px;
+    height: 30px;
+}
