@@ -1,0 +1,67 @@
+
+.navbar{
+    margin: 0;
+    margin-top: -35px;
+}
+
+
+
+.properties{
+    margin-top: 0;
+    display: flex;
+    flex-wrap: wrap;
+    /* background-color: red; */
+}
+
+.properties > div {
+    width: 31%;
+    margin: 10px;
+    text-align: center;
+    background-color: white;
+    padding: 8px;
+}
+.properties > div img {
+    height: 500px;
+    width: 1000px;
+}
+.properties > div p {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+h1{
+    margin: 30px;
+    text-align: center;
+    color: #C75B12;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.features{
+    display: flex;
+  
+}
+.features > div {
+    margin: 10px;
+    width: 31%;
+    /* border: 2px solid; */
+}
+.features > div img {
+    width: 30px;
+    height: 30px;
+}
+
+.rating > div{
+    margin: 10px;
+}
+
+.rating > div img {
+    height: 30px;
+    width: 80px;
+}
+.rating button {
+    width: 115px;
+    height: 28px;
+    background-color: rgb(12, 41, 104);
+}
+.rating span  button {
+    margin-left: 200px;
+}
