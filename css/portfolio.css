@@ -68,5 +68,8 @@ h1{
 .rating > div img {
     height: 30px;
     width: 80px;
- 
+}
+.rating button {
+    width: 100px;
+    height: 25px;
 }
