@@ -64,12 +64,15 @@ h1{
     margin: 10px;
 }
 
-
 .rating > div img {
     height: 30px;
     width: 80px;
 }
 .rating button {
-    width: 100px;
-    height: 25px;
+    width: 115px;
+    height: 28px;
+    background-color: rgb(12, 41, 104);
+}
+.rating span  button {
+    margin-left: 200px;
 }
