@@ -10,10 +10,11 @@
 }
 
 .breadcrumbs a {
-    padding-left: 43%;
+    padding-left: 44%;
     text-decoration: none;
     font-size: 30px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #C75B12;
 }
 
 .properties{
