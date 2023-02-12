@@ -24,9 +24,7 @@ h1{
 .prop_images div {
     display: flex;
     margin: 10px;
-    width: 32%;  
-    background-color: blue;
-   
+    width: 32%;    
    
 }
 .prop_images div img {
