@@ -1,0 +1,85 @@
+
+.navbar{
+    margin: 0;
+    margin-top: -35px;
+}
+.description{
+    display: flex;
+    margin: 10px;
+}
+
+h1{
+    margin: 30px;
+    text-align: center;
+    color: #C75B12;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.prop_images{
+    display: flex;
+    margin: 10px;  
+    flex-wrap: wrap;
+}
+
+.prop_images div {
+    display: flex;
+    margin: 10px;
+    width: 32%;    
+   
+}
+.prop_images div img {
+    padding: 15px;
+    width: 500px;
+    height: 400px; 
+}
+
+.prop_images div:hover {
+   background: rgb(200, 200, 202);
+}
+
+
+
+.description{
+   margin-top: 20px;
+
+}
+
+.description1{
+    width: 65%;
+    margin: 10px;
+    background-color: #dad6d2;
+    padding: 5px;
+}
+
+.description1 p {
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   text-align: justify;
+}
+
+.description2{
+    width: 35%;
+    margin: 10px;
+    background-color: #dad6d2;
+    padding: 5px;
+}
+.description2 a {
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;   
+}
+
+.description2 p {
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   text-align: justify;
+}
+.description2 button {
+    margin: 5px;
+    height: 30px;
+    width: 98%;
+}
+
+
+
+
