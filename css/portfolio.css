@@ -59,3 +59,14 @@ h1{
     width: 30px;
     height: 30px;
 }
+
+.rating > div{
+    margin: 10px;
+}
+
+
+.rating > div img {
+    height: 30px;
+    width: 80px;
+ 
+}
