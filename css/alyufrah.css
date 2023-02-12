@@ -3,30 +3,9 @@
     margin: 0;
     margin-top: -35px;
 }
-
-
-
-.properties{
-    margin-top: 0;
+.description{
     display: flex;
-    flex-wrap: wrap;
-    /* background-color: red; */
-}
-
-.properties > div {
-    width: 31%;
     margin: 10px;
-    text-align: center;
-    background-color: white;
-    padding: 8px;
-}
-.properties > div img {
-    height: 500px;
-    width: 1000px;
-}
-.properties > div p {
-    font-size: 25px;
-    font-weight: bold;
 }
 
 h1{
@@ -35,33 +14,50 @@ h1{
     color: #C75B12;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-.features{
+
+.prop_images{
     display: flex;
-  
-}
-.features > div {
-    margin: 10px;
-    width: 31%;
-    /* border: 2px solid; */
-}
-.features > div img {
-    width: 30px;
-    height: 30px;
+    margin: 10px;  
+    flex-wrap: wrap;
 }
 
-.rating > div{
+.prop_images div {
+    display: flex;
     margin: 10px;
+    width: 32%;  
+    background-color: blue;
+   
+   
+}
+.prop_images div img {
+    padding: 15px;
+    width: 500px;
+    height: 400px;
+   
 }
 
-.rating > div img {
-    height: 30px;
-    width: 80px;
+
+
+.description{
+   margin-top: 20px;
+
 }
-.rating button {
-    width: 115px;
-    height: 28px;
-    background-color: rgb(12, 41, 104);
+
+.description1{
+    width: 65%;
+    margin: 10px;
+    background-color: #dad6d2;
+    padding: 5px;
+
 }
-.rating span  button {
-    margin-left: 200px;
+.description2{
+    width: 35%;
+    margin: 10px;
+    background-color: #dad6d2;
+    padding: 5px;
+}
+.description1 p {
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   text-align: justify;
 }
