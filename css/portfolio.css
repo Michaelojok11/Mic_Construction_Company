@@ -35,8 +35,14 @@
     height: 350px;
     width: 500px;
 }
+.properties > div p {
+    font-size: 25px;
+    font-weight: bold;
+}
+
 h1{
     margin: 30px;
     text-align: center;
     color: #C75B12;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
