@@ -58,6 +58,9 @@ h1{
     padding: 20px;
     border-radius: 25px;
 }
+.services1 p {
+    padding: 10px;
+}
 .services .services1 img {
     margin-left: 45%;
     margin-right: 45%;
@@ -65,14 +68,17 @@ h1{
     width: 60px;
     justify-content: centre;
 }
+
 .services1 p:hover {
     background-color: red;
     border-radius: 20px;
 }
+
 .services1 h4:hover {
     color: rgb(78, 62, 62) ;
     background-color: white;
 }
+
 h4{
     font-size: 30px;
     text-align: center;
