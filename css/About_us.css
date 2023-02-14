@@ -67,7 +67,7 @@ h1{
 }
 .services1 p:hover {
     background-color: red;
-    padding: 10px;
+    border-radius: 20px;
 }
 .services1 h4:hover {
     color: rgb(78, 62, 62) ;
