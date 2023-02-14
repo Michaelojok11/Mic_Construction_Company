@@ -57,6 +57,7 @@ h1{
     width: 33.3%;
     padding: 20px;
     border-radius: 25px;
+    margin-right: 5px;
 }
 .services1 p {
     padding: 10px;
@@ -76,7 +77,6 @@ h1{
 
 .services1 h4:hover {
     color: rgb(78, 62, 62) ;
-    background-color: white;
 }
 
 h4{
