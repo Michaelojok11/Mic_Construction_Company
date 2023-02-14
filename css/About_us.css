@@ -25,7 +25,7 @@
 .middle_section .contact button:hover {
     background-color: red;
 }
-.services1 h4 :hover {
+.services .services1  :hover {
     background-color: #b20f07
 } 
 
@@ -62,6 +62,13 @@ h1{
     height:50px;
     width: 60px;
     justify-content: centre;
+}
+.services1 p {
+    
+    padding: 10px;
+}
+.services h4 {
+    
 }
 h4{
     font-size: 30px;
