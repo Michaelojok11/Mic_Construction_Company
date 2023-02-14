@@ -25,9 +25,9 @@
 .middle_section .contact button:hover {
     background-color: red;
 }
-.services .services1  :hover {
+/* .services .services1  :hover {
     background-color: #b20f07
-} 
+}  */
 
 button{
     background-color: brown;
@@ -39,6 +39,7 @@ button{
     height: 30px;
     padding-right: 5px;
 }
+
 h1{
     color: #C75B12;
     text-align: center;
@@ -55,6 +56,7 @@ h1{
 .services1{
     width: 33.3%;
     padding: 20px;
+    border-radius: 25px;
 }
 .services .services1 img {
     margin-left: 45%;
@@ -63,12 +65,13 @@ h1{
     width: 60px;
     justify-content: centre;
 }
-.services1 p {
-    
+.services1 p:hover {
+    background-color: red;
     padding: 10px;
 }
-.services h4 {
-    
+.services1 h4:hover {
+    color: rgb(78, 62, 62) ;
+    background-color: white;
 }
 h4{
     font-size: 30px;
