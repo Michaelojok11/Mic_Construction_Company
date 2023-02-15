@@ -23,7 +23,6 @@ h1{
     margin: 5px ;
     width: 20%;
     padding: 5px;
-    background-color: green;
 }
 .agents p {
     font-size: 25px;
@@ -38,14 +37,13 @@ h1{
     padding: 5px; 
     width: 60%;
     flex-wrap: wrap;
-    background-color: blue;
 }
 
 .prop_images div {
     display: flex;
     margin: 5px;
     padding: 5px;
-    width:301px;
+    width:31%;
    
 }
 .prop_images div img {
@@ -65,7 +63,6 @@ h1{
     margin: 5px ;
     width: 20%;
     padding: 5px;
-    background-color: green;
 }
 
 .description{
