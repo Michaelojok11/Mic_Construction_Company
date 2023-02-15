@@ -42,8 +42,8 @@ h1{
 }
 .prop_images div img {
     padding: 5px;
-    width: 200px;
-    height: 150px; 
+    width: 285px;
+    height: 250px; 
 }
 
 .prop_images div:hover {
@@ -51,9 +51,9 @@ h1{
 }
 
 .enquiry_forms{
-    margin: 10px ;
+    margin: 5px ;
     width: 20%;
-    padding: 10px;
+    padding: 5px;
 }
 
 .description{
