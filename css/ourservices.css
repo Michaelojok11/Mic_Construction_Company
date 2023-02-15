@@ -24,6 +24,12 @@ h1{
     width: 20%;
     padding: 5px;
 }
+.agents p {
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+
+}
 
 .prop_images{
     display: flex;
@@ -43,7 +49,9 @@ h1{
 .prop_images div img {
     padding: 5px;
     width: 285px;
-    height: 250px; 
+    height: 250px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .prop_images div:hover {
@@ -95,6 +103,13 @@ h1{
     margin: 5px;
     height: 30px;
     width: 98%;
+}
+.prop_details .agents img {
+    width: 280px;
+    height: 280px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
 }
 
 
