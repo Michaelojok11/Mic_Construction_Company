@@ -1,4 +1,18 @@
 .property_details {
     display: flex;
-
+}
+.agents{
+    width: 20%;
+    margin: 5px;
+    padding: 5px;
+}
+.images{
+    width: 60%;
+    margin: 5px;
+    padding: 5px;
+}
+.inquiry_form{
+    width: 20%;
+    margin: 5px;
+    padding: 5px;
 }
