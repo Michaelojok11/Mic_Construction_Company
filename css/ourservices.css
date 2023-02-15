@@ -27,19 +27,21 @@ h1{
 
 .prop_images{
     display: flex;
-    margin: 10px; 
-    padding: 10px; 
+    margin: 5px; 
+    padding: 5px; 
+    width: 60%;
     flex-wrap: wrap;
 }
 
 .prop_images div {
     display: flex;
-    margin: 10px;
-     width:200px;
+    margin: 5px;
+    padding: 5px;
+    width:300px;
    
 }
 .prop_images div img {
-    padding: 15px;
+    padding: 5px;
     width: 200px;
     height: 150px; 
 }
