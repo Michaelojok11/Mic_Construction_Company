@@ -29,6 +29,10 @@ h1{
     width: 30%;
     padding: 5px;
 }
+h3{
+    color: #C75B12;
+    text-align: center;
+}
 
 .agents p {
     font-size: 25px;
