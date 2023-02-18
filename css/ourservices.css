@@ -25,19 +25,21 @@ h1{
     padding: 5px;
     display: flex;
 }
+.agents div {
+    width: 50%;
+}
+
 .agents p {
     font-size: 25px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-.agents div {
+.prop_details .agents img {
+    width: 100px;
+    height: 100px;
     margin: 5px;
-    padding-top: 50px;
-    width: 50%;
-}
-.agents img {
-    width: 50px;
-    height: 50px;
+    padding: 5px;
+    
 }
 
 .prop_images{
@@ -125,14 +127,7 @@ h1{
     height: 30px;
     width: 98%;
 }
-.prop_details .agents img {
-    width: 280px;
-    height: 280px;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 5px;
-    display: block;
-}
+ 
 
 
 
