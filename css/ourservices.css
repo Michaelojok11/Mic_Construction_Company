@@ -33,6 +33,7 @@ h1{
 .agents div {
     margin: 10px;
     padding-top: 50px;
+    width: 50%;
 }
 
 .prop_images{
