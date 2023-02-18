@@ -36,16 +36,21 @@ h1{
     margin: 5px; 
     padding: 5px; 
     width: 60%;
+    display: flex;
    
 }
 
+.prop1 {
+   /* width: 100%; */
+   flex-wrap: wrap;
+   display: flex;
+ }
+
 .prop1 div {
-    display: flex;
+    /* display: flex; */
     margin: 5px;
     padding: 5px;
-    width:31%;
-    flex-wrap: wrap; 
-    display: flex;
+   /* display: flex; */
    
 }
 .prop1 div img {
@@ -54,7 +59,7 @@ h1{
     height: 250px;
     margin-left: auto;
     margin-right: auto;
-    display: block;
+    /* display: block; */
 } 
 
 /* .prop_images div:hover {
