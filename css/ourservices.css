@@ -32,11 +32,11 @@ h1{
 }
 
 .prop_images{
-    display: flex;
+  
     margin: 5px; 
     padding: 5px; 
     width: 60%;
-    display: flex;
+   
    
 }
 
