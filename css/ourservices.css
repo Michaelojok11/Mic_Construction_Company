@@ -36,24 +36,26 @@ h1{
     margin: 5px; 
     padding: 5px; 
     width: 60%;
-    /* flex-wrap: wrap; */
+   
 }
 
-/* .prop_images div {
+.prop1 div {
     display: flex;
     margin: 5px;
     padding: 5px;
-    width:31%; */
+    width:31%;
+    flex-wrap: wrap; 
+    display: flex;
    
 }
-/* .prop_images div img {
+.prop1 div img {
     padding: 5px;
     width: 285px;
     height: 250px;
     margin-left: auto;
     margin-right: auto;
     display: block;
-} */
+} 
 
 /* .prop_images div:hover {
    background: rgb(200, 200, 202);
