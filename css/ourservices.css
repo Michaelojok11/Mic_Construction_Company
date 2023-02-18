@@ -31,9 +31,13 @@ h1{
     text-align: center;
 }
 .agents div {
-    margin: 10px;
+    margin: 5px;
     padding-top: 50px;
     width: 50%;
+}
+.agents img {
+    width: 50px;
+    height: 50px;
 }
 
 .prop_images{
