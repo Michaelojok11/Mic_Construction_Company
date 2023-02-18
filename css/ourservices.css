@@ -48,9 +48,10 @@ h1{
     /* display: flex; */
     margin: 5px;
     padding: 5px;
-   /* display: flex; */
-   
+   /* display: flex; */  
 }
+
+
 .prop1 div img {
     padding: 5px;
     width: 285px;
@@ -62,6 +63,13 @@ h1{
 /* .prop_images div:hover {
    background: rgb(200, 200, 202);
 } */
+
+.prop2 p {
+   
+        font-size: 25px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        text-align: center;
+}
 
 .enquiry_forms{
     margin: 5px ;
