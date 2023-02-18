@@ -23,12 +23,16 @@ h1{
     margin: 5px ;
     width: 20%;
     padding: 5px;
+    display: flex;
 }
 .agents p {
     font-size: 25px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
-
+}
+.agents div {
+    margin: 10px;
+    padding-top: 50px;
 }
 
 .prop_images{
